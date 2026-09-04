@@ -1,0 +1,27 @@
+# Segredos — nunca versionar
+.env
+.env.*
+*.key
+*.pem
+credenciais/
+
+# Dados reais da empresa
+dados/*
+!dados/README.md
+saidas/*
+!saidas/README.md
+
+# Dependências e build
+node_modules/
+dist/
+build/
+.next/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log

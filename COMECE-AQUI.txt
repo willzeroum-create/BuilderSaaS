@@ -1,0 +1,64 @@
+============================================
+   BuilderSaaS — COMECE AQUI
+   O sistema da sua empresa
+============================================
+
+Em 3 passos o BuilderSaaS entende a sua empresa e comeca a construir
+o sistema dela.
+
+
+PASSO 1 — Tenha a pasta no seu computador
+   - Se voce CLONOU pelo Claude Code: ja esta pronto, pule pro passo 2.
+   - Se voce baixou o .ZIP: clique com o botao direito e "Extrair tudo".
+     Vai aparecer uma pasta chamada "BuilderSaaS".
+
+
+PASSO 2 — Abra a pasta no Claude Code
+   Abra o Claude Code na pasta "BuilderSaaS".
+   (Nao tem o Claude Code ainda? Veja "O QUE VOCE PRECISA" no fim.)
+
+
+PASSO 3 — Digite:  /instalar
+   No chat, escreva /instalar e de enter.
+
+   Nao e ficha cadastral. Sao perguntas sobre a sua operacao: o que a
+   empresa faz, quantas pessoas trabalham, qual processo hoje esta no
+   WhatsApp ou numa planilha, onde a informacao se perde.
+
+   No fim, o sistema te devolve uma leitura da operacao e uma proposta
+   do que vale construir primeiro.
+
+
+DEPOIS DISSO, os comandos do dia a dia (digite "/" pra ver todos):
+
+   /diagnostico  mapeia os processos e mostra o que vale virar sistema
+   /app          desenha e constroi o sistema, uma tela por vez
+   /planilha     migra a planilha que hoje sustenta a operacao
+   /acesso       define quem pode ver e fazer o que
+   /publicar     coloca no ar e devolve o endereco pra equipe
+   /backup       protege os dados e testa a restauracao
+   /lgpd         verifica os dados pessoais que a empresa guarda
+   /conectar     liga o sistema nas ferramentas que voces ja usam
+   ... e mais. Explore.
+
+
+UMA COISA IMPORTANTE
+   O sistema constroi COM voce, nao POR voce escondido. Ele mostra o
+   que vai fazer antes de fazer, pergunta quando a decisao e sua, e
+   avisa quando algo NAO vale a pena informatizar.
+
+
+O QUE VOCE PRECISA
+   - Claude Code instalado (e onde o BuilderSaaS roda).
+     Instale em: https://claude.com/claude-code
+   - Para o sistema guardar dados, uma conta gratuita no Supabase.
+     O proprio sistema te ensina a ligar quando chegar a hora.
+
+
+SOBRE OS SEUS DADOS
+   Tudo que voce criar fica no SEU computador. O codigo, os documentos
+   e as decisoes sao da sua empresa. Backup na nuvem e opcional e
+   voce decide se quer.
+
+   Nenhuma senha passa pelo chat. Quando precisar entrar numa conta,
+   o login acontece na tela da propria empresa.
