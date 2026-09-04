@@ -8,9 +8,18 @@ o sistema dela.
 
 
 PASSO 1 — Tenha a pasta no seu computador
-   - Se voce CLONOU pelo Claude Code: ja esta pronto, pule pro passo 2.
-   - Se voce baixou o .ZIP: clique com o botao direito e "Extrair tudo".
-     Vai aparecer uma pasta chamada "BuilderSaaS".
+
+   JEITO 1 (recomendado): peca pro Claude baixar pra voce.
+   Abra o Claude Code em qualquer pasta e cole esta frase no chat:
+
+      Clona o https://github.com/willzeroum-create/BuilderSaaS.git na
+      pasta atual, entra nela e roda o /instalar. Comece direto pela
+      entrevista.
+
+   Pronto. Ele baixa tudo e ja comeca. Pule pro passo 3.
+
+   JEITO 2: se voce baixou o arquivo .ZIP, clique com o botao direito
+   e escolha "Extrair tudo". Vai aparecer uma pasta "BuilderSaaS".
 
 
 PASSO 2 — Abra a pasta no Claude Code
